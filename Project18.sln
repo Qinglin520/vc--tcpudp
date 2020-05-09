@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "serverudp", "serverudp\serv
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UNIT1", "UNIT1", "{17C1DF8D-EAF9-48B1-85F0-29EA2CEAB84C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Httpserver", "Httpserver\Httpserver.vcxproj", "{2556A99D-8657-466D-8F8C-BF5E806DA53F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -53,6 +55,14 @@ Global
 		{84F98947-C29F-4DA7-82FE-AF601FF5FFD1}.Release|x64.Build.0 = Release|x64
 		{84F98947-C29F-4DA7-82FE-AF601FF5FFD1}.Release|x86.ActiveCfg = Release|Win32
 		{84F98947-C29F-4DA7-82FE-AF601FF5FFD1}.Release|x86.Build.0 = Release|Win32
+		{2556A99D-8657-466D-8F8C-BF5E806DA53F}.Debug|x64.ActiveCfg = Debug|x64
+		{2556A99D-8657-466D-8F8C-BF5E806DA53F}.Debug|x64.Build.0 = Debug|x64
+		{2556A99D-8657-466D-8F8C-BF5E806DA53F}.Debug|x86.ActiveCfg = Debug|Win32
+		{2556A99D-8657-466D-8F8C-BF5E806DA53F}.Debug|x86.Build.0 = Debug|Win32
+		{2556A99D-8657-466D-8F8C-BF5E806DA53F}.Release|x64.ActiveCfg = Release|x64
+		{2556A99D-8657-466D-8F8C-BF5E806DA53F}.Release|x64.Build.0 = Release|x64
+		{2556A99D-8657-466D-8F8C-BF5E806DA53F}.Release|x86.ActiveCfg = Release|Win32
+		{2556A99D-8657-466D-8F8C-BF5E806DA53F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
